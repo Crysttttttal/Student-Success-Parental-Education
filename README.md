@@ -1,5 +1,5 @@
 # Student-Success & Parental-Education
-# STAT201-Group-Project_29
+Detering the relationship between students' academic success and parental education level.
 
 ## Introduction
 
