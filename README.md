@@ -1,17 +1,17 @@
-# Academic Success and Parental Education Level Analysis
+# Student-Success & Parental-Education
 # STAT201-Group-Project_29
 
 ## Introduction
 
-Investigating the factors that influence academic grades is crucial for understanding educational outcomes and addressing inequalities. This repository contains a research project that focuses on the relationship between students' academic success and the education level of their parents.
+Examining the factors impacting academic grades is essential for comprehending educational achievements and tackling disparities. This repository presents a research endeavor centered on exploring how students' academic achievements relate to their parents' educational background.
 
 ### Background
 
-Several studies have highlighted the correlation between parental education levels and student academic performance, which can impact graduation rates and reflect educational inequalities. This project utilizes a dataset from the University of California, Irvine (UCI), comprising 31 factors related to the academic achievements of 145 students, with a particular emphasis on parental characteristics.
+Numerous research investigations have emphasized the link between the educational level of parents and the academic accomplishments of students, which can influence graduation rates and mirror educational disparities. This project employs a dataset sourced from the University of California, Irvine (UCI), encompassing 31 variables concerning the academic performance of 145 students, with a specific focus on parental attributes.
 
 ### Significance
 
-The analysis aims to shed light on the impact of parental education levels on student GPA, thereby contributing to the broader conversation on education policy and family engagement in academic success.
+The purpose of this analysis is to provide insight into how parental education levels influence student GPA, thereby contributing to the broader discourse on educational policies and the role of family involvement in academic achievement.
 
 ## Methods
 
